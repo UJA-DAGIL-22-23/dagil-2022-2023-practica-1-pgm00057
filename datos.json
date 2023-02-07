@@ -1,5 +1,9 @@
-- Nombre: Pablo García del Moral
-- Correo: pgm00057@red.ujaen.es
-- GitHub: https://github.com/pgm00057/
-- Trello: https://trello.com/u/pablogarciadelmoral3
-- Imagen: pgm00057.jpeg
+[
+    {
+        "nombre": "Pablo Garcia del Moral",
+        "correo": "pgm00057@red.ujaen.es",
+        "github": "https://github.com/pgm00057/",
+        "trello": "https://trello.com/u/pablogarciadelmoral3",
+        "foto": "/pgm00057.jpeg"
+    }
+]
